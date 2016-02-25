@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_id": "geofenceplugin-d702e",
+    "project_number": "851400602776",
+    "name": "geofenceplugin"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851400602776:android:1aeb6b9be3b48818",
+        "client_id": "android:com.tcs.geofenceplugin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.tcs.geofenceplugin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
